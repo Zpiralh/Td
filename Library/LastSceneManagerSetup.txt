@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Elias/Documents/GitHub/New Unity Project 122/Assets/op.unity
+  isLoaded: 1
+  isActive: 1
